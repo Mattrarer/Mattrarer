@@ -1,17 +1,17 @@
-## Hi, I'm Mateo Aranguren 👋
+## Hi, I'm Mateo Aranguren 
 
 Data scientist and statistician working on **electoral data** in Colombia. I build statistical and machine-learning pipelines for public data: survey and audit sampling, anomaly detection, forecasting and recommender systems. I care about validation as much as models: temporal hold-outs, leakage control, honest baselines.
 
-- 🏛️ Professional at Colombia's National Electoral Council (CNE): electoral data analysis and oversight of electoral technology
-- 🎓 MSc candidate in Statistics and Data Science
-- 🛠️ Python · R · SQL/DuckDB · scikit-learn · TensorFlow/Keras · PyTorch · pandas · sf · Shiny
-- 🌎 Spanish (native) · English
+-  Professional at Colombia's National Electoral Council (CNE): electoral data analysis and oversight of electoral technology
+-  MSc candidate in Statistics and Data Science
+-  Python · R · SQL/DuckDB · scikit-learn · TensorFlow/Keras · PyTorch · pandas · sf · Shiny
+-  Spanish (native) · English
 
 > 🇪🇸 *Científico de datos y estadístico enfocado en datos electorales. Trabajo con muestreo, detección de anomalías, pronóstico y sistemas de recomendación.*
 
 ---
 
-### ⭐ Featured projects
+###  Featured projects
 
 | Project | What it shows | Stack |
 |---|---|---|
